@@ -4,6 +4,8 @@
 ### 연구 주제
 >Edge computing기술을 이용한 프로젝트 기반 마련하기 
 > - Edge computing이란
-> -
+> - Edge computing 구현을 위한 Open source
+>     + OpenStack
+>     + Kubernetes
 
 
